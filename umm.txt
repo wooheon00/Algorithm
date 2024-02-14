@@ -1,2 +1,2 @@
-string 다루는 함수 
-long long 자료형을 사용해도 오버플로우가 발생하면?
+string 다룰 때 STL  
+long long 자료형 보다 큰 자료형이 필요할 때 STL
